@@ -70,7 +70,7 @@
                 },
                 "Timeout": 60,
                 "Handler": "canary.ping",
-                "Runtime": "python3.6",
+                "Runtime": "python3.9",
                 "MemorySize": 128
             }
         }
